@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Database\Seeder;
-use App\Model;
+use App\Travel;
 
 class TravelsTableSeeder extends Seeder
 {
